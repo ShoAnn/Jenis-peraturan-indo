@@ -1,0 +1,642 @@
+[
+  {
+    "jenis_peraturan": "Peraturan Perundang-undangan Pusat",
+    "singkatan": ["Undang-undang", "UU"]
+  },
+  {
+    "jenis_peraturan": "Undang-undang Darurat",
+    "singkatan": ["UUdrt"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Pemerintah Pengganti Undang-Undang",
+    "singkatan": ["Perpu"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Pemerintah",
+    "singkatan": ["PP"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Presiden",
+    "singkatan": ["Perpres"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Presiden",
+    "singkatan": ["Keppres"]
+  },
+  {
+    "jenis_peraturan": "Instruksi Presiden",
+    "singkatan": ["Inpres"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Perundang-undangan Daerah",
+    "singkatan": ["Peraturan Daerah", "PERDA"]
+  },
+  {
+    "jenis_peraturan": "Qanun",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Daerah Khusus Provinsi Papua",
+    "singkatan": ["PERDASUS PAPUA"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Daerah Istimewa",
+    "singkatan": ["Perdais"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Gubernur",
+    "singkatan": ["PERGUB"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Bupati",
+    "singkatan": ["PERBUP"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Walikota",
+    "singkatan": ["PERWALI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Pemeriksa Keuangan",
+    "singkatan": ["Permen BPK"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Koordinator Bidang Kesejahteraan Rakyat",
+    "singkatan": ["Permenko KESRA"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Badan Pemeriksa Keuangan",
+    "singkatan": ["Keputusan BPK"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Dalam Negeri",
+    "singkatan": ["PERMENDAGRI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Keuangan",
+    "singkatan": ["PMK"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Koordinator Bidang Politik, Hukum, dan Keamanan",
+    "singkatan": ["PERMENKOPOLHUKAM", "PERMENKO POLHUKAM"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Luar Negeri",
+    "singkatan": ["PERMENLU"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Hukum dan HAM",
+    "singkatan": ["PERMENKUMHAM"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Pertahanan",
+    "singkatan": ["PERMENHAN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Perhubungan",
+    "singkatan": ["PERMENHUB"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kejaksaan Republik Indonesia",
+    "singkatan": ["PERJA RI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Kepolisian Negara Republik Indonesia",
+    "singkatan": ["PERKAPOLRI", "PERKA POLRI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Narkotika Nasional",
+    "singkatan": ["PERKA BNN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Meteorologi, Klimatologi, dan Geofisika",
+    "singkatan": ["PERKA BMKG"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Siber dan Sandi Negara",
+    "singkatan": ["Peraturan BSSN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Komisi Nasional Hak Asasi Manusia",
+    "singkatan": ["Peraturan KOMNAS HAM"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Komisi Pemberantasan Korupsi",
+    "singkatan": ["Peraturan KPK"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Komisi Pemilihan Umum",
+    "singkatan": ["Peraturan KPU"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Nasional Penanggulangan Terorisme",
+    "singkatan": ["Peraturan BNPT"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Pengawas Pemilihan Umum",
+    "singkatan": ["Peraturan BPPU"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Koordinasi Penanaman Modal",
+    "singkatan": ["Peraturan BKPM"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Menteri Keuangan",
+    "singkatan": ["KMK"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Perdagangan",
+    "singkatan": ["Permendag"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Perindustrian",
+    "singkatan": ["Permenperin"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Negara Perencanaan Pembangunan Nasional/Kepala Badan Perencanaan Pembangunan Nasional",
+    "singkatan": ["Permen PPN/Kepala Bappenas"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Koperasi dan Usaha Kecil dan Menengah",
+    "singkatan": ["Permenkop UKM"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Pusat Statistik",
+    "singkatan": ["Peraturan BPS"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Pusat Statistik",
+    "singkatan": ["Peraturan Kepala BPS"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Bank Indonesia",
+    "singkatan": ["Peraturan BI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Otoritas Jasa Keuangan",
+    "singkatan": ["Peraturan OJK"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Pusat Pelaporan dan Analisis Transaksi Keuangan",
+    "singkatan": ["Peraturan Kepala PPATK"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Lembaga Penjamin Simpanan",
+    "singkatan": ["Peraturan LPS"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Standardisasi Nasional",
+    "singkatan": ["Peraturan BSN"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Kepala Badan Standardisasi Nasional",
+    "singkatan": ["Keputusan Kepala BSN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "singkatan": ["Perka LKPP"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Komisi Pengawas Persaingan Usaha",
+    "singkatan": ["Peraturan KPPU"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Komisi Pengawas Persaingan Usaha",
+    "singkatan": ["Keputusan KPPU"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Tenaga Nuklir Nasional",
+    "singkatan": ["Peraturan BATAN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Dewan Perwakilan Rakyat",
+    "singkatan": ["Peraturan DPR"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Dewan Perwakilan Daerah",
+    "singkatan": ["Peraturan DPD"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Mahkamah Agung",
+    "singkatan": ["Peraturan MA"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Perpustakaan Nasional",
+    "singkatan": ["Peraturan Perpusnas"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Mahkamah Konstitusi",
+    "singkatan": ["Peraturan MK"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Komisi Yudisial",
+    "singkatan": ["Peraturan KY"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Koordinator Bidang Pembangunan Manusia Dan Kebudayaan",
+    "singkatan": ["Permenko PMK"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Sekretaris Negara Republik Indonesia",
+    "singkatan": ["Permensesneg"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Sosial",
+    "singkatan": ["Permensos"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Pariwisata Dan Ekonomi Kreatif",
+    "singkatan": ["Permenparenkraf"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Ketenagakerjaan",
+    "singkatan": ["Permenaker"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Komunikasi dan Informatika",
+    "singkatan": ["Permenkominfo"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "singkatan": ["Permenpan RB", "Permen PANRB"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Pemberdayaan Perempuan Dan Perlindungan Anak",
+    "singkatan": ["Permen PPPA"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Pemuda dan Olahraga",
+    "singkatan": ["Permenpora"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Riset, Teknologi, Dan Pendidikan Tinggi Republik Indonesia",
+    "singkatan": ["Permen Ristekdikti"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Agraria dan Tata Ruang/ Kepala Badan Pertanahan Nasional Republik Indonesia",
+    "singkatan": ["Permen Agraria/Kepala BPN", "Permen ATR/KBPN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi",
+    "singkatan": ["Permendesa PDTT"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Pengawas Tenaga Nuklir",
+    "singkatan": ["Peraturan BAPETEN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Tenaga Nuklir Nasional",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Lembaga Ilmu Pengetahuan Indonesia",
+    "singkatan": ["Peraturan LIPI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Perpustakaan Nasional",
+    "singkatan": ["Peraturan Kepala Perpusnas"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Nasional Penanggulangan Bencana",
+    "singkatan": ["Peraturan Kepala BNPB"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Riset dan Inovasi Nasional",
+    "singkatan": ["Peraturan BRIN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Kependudukan dan Keluarga Berencana Nasional",
+    "singkatan": ["Peraturan Kepala BKKBN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Kepegawaian Negara",
+    "singkatan": ["Peraturan Kepala BKN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Pengawasan Keuangan dan Pembangunan",
+    "singkatan": ["Peraturan Kepala BPKP"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Lembaga Administrasi Negara",
+    "singkatan": ["Peraturan LAN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Arsip Nasional Republik Indonesia",
+    "singkatan": ["Peraturan ANRI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Nasional Penempatan dan Perlindungan Tenaga Kerja Indonesia",
+    "singkatan": ["Peraturan BNP2TKI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Direktur Utama Lembaga Penyiaran Publik Radio Republik Indonesia",
+    "singkatan": ["Peraturan Dirut LPP RRI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Direksi Lembaga Penyiaran Publik Radio Republik Indonesia",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Informasi Geospasial",
+    "singkatan": ["Peraturan BIG"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Ombudsman Republik Indonesia",
+    "singkatan": ["Peraturan Ombudsman RI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Ketua Ombudsman Republik Indonesia",
+    "singkatan": ["Peraturan Ketua Ombudsman RI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Ekonomi Kreatif",
+    "singkatan": ["Peraturan Kepala Bekraf"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Koordinator Bidang Kemaritiman dan Investasi",
+    "singkatan": ["Permenko Maritim dan Investasi"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Pertanian",
+    "singkatan": ["Permentan"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Menteri Pertanian",
+    "singkatan": ["Keputusan Mentan"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Kelautan dan Perikanan",
+    "singkatan": ["Permen KKP"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Menteri Kelautan dan Perikanan",
+    "singkatan": ["Kepmen KKP"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Energi dan Sumber Daya Mineral",
+    "singkatan": ["Permen ESDM"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Menteri Energi dan Sumber Daya Mineral",
+    "singkatan": ["Kepmen ESDM"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Pekerjaan Umum dan Perumahan Rakyat",
+    "singkatan": ["Permen PUPR"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Lingkungan Hidup",
+    "singkatan": ["Permen LH"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Lingkungan Hidup Dan Kehutanan",
+    "singkatan": ["Permen LHK"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Kepala Satuan Kerja Khusus Pelaksana Kegiatan Usaha Hulu Minyak dan Gas Bumi",
+    "singkatan": ["Keputusan Kepala SKK Migas"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Kependudukan dan Keluarga Berencana Nasional",
+    "singkatan": ["Peraturan BKKBN"]
+  },
+  {
+    "jenis_peraturan": "Instruksi Menteri Dalam Negeri",
+    "singkatan": ["Instruksi Mendagri"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Menteri Dalam Negeri",
+    "singkatan": ["Kepmendagri"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Agama",
+    "singkatan": ["Peraturan Menag"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Pengusahaan Kawasan Perdagangan dan Pelabuhan Bebas Sabang",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Pengusahaan Kawasan Perdagangan Bebas dan Pelabuhan Bebas Batam",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Nasional Pengelola Perbatasan",
+    "singkatan": ["Peraturan BNPP"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Kesehatan",
+    "singkatan": ["Permenkes"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Menteri Kesehatan",
+    "singkatan": ["Kepmenkes"]
+  },
+  {
+    "jenis_peraturan": "Surat Edaran Menteri Kesehatan",
+    "singkatan": ["Surat Edaran Menkes"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Pendidikan dan Kebudayaan",
+    "singkatan": ["Permendikbud"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Penyelenggara Jaminan Sosial Kesehatan",
+    "singkatan": ["Peraturan BPJS Kesehatan"]
+  },
+  {
+    "jenis_peraturan": "Peraturan BPJS Ketenagakerjaan",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Pengawas Obat dan Makanan",
+    "singkatan": ["Perka BPOM"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Badan Usaha Milik Negara",
+    "singkatan": ["Permen BUMN"]
+  },
+  {
+    "jenis_peraturan": "Surat Edaran Menteri Badan Usaha Milik Negara",
+    "singkatan": ["SE Menteri BUMN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Koordinator Bidang Perekonomian",
+    "singkatan": ["Permenko Perekonomian"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Kepegawaian Negara",
+    "singkatan": ["Peraturan BKN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "singkatan": ["Peraturan LKPP"]
+  },
+  {
+    "jenis_peraturan": "Surat Edaran Otoritas Jasa Keuangan",
+    "singkatan": ["SE OJK", "Surat Edaran OJK"]
+  },
+  {
+    "jenis_peraturan": "Surat Edaran Kepala Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "singkatan": ["Surat Edaran Kepala LKPP", "SE Kepala SKPP"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Lembaga Perlindungan Saksi dan Korban",
+    "singkatan": ["Peraturan LPSK"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Jaksa Agung",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Arsip Nasional Republik Indonesia",
+    "singkatan": ["Peraturan ANRI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Ketua Komisi Nasional Hak Asasi Manusia",
+    "singkatan": ["Peraturan Komnas HAM"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Pengawas Obat dan Makanan",
+    "singkatan": ["Peraturan BPOM"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Meteorologi, Klimatologi, dan Geofisika",
+    "singkatan": ["Peraturan BMKG"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Lembaga Administrasi Negara",
+    "singkatan": ["Peraturan LAN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Gubernur Lembaga Ketahanan Nasional",
+    "singkatan": ["Pergub Lemhannas"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Keamanan Laut",
+    "singkatan": ["Perka Bakamla"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Keamanan Laut",
+    "singkatan": ["Peraturan Bakamla"]
+  },
+  {
+    "jenis_peraturan": "Surat Edaran Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "singkatan": ["SE Menteri PAN-RB", "SE Menpan RB"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Sekretaris Kabinet",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Nasional Penanggulangan Bencana",
+    "singkatan": ["Peraturan BNPB"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Kepala Badan Nasional Penanggulangan Bencana",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepolisian Negara Republik Indonesia",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Pengawasan Keuangan dan Pembangunan",
+    "singkatan": []
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Intelijen Negara",
+    "singkatan": ["Peraturan BIN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Pusat Pelaporan dan Analisis Transaksi Keuangan",
+    "singkatan": ["Peraturan PPATK"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Majelis Permusyawaratan Rakyat",
+    "singkatan": ["Peraturan MPR"]
+  },
+  {
+    "jenis_peraturan": "Surat Edaran Menteri Dalam Negeri",
+    "singkatan": ["SE Mendagri"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Menteri Luar Negeri",
+    "singkatan": ["Kepmenlu"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Narkotika Nasional",
+    "singkatan": ["Peraturan BNN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Koordinasi Penanaman Modal",
+    "singkatan": ["Peraturan BPKM"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Standardisasi Nasional",
+    "singkatan": ["Perka BSN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Pengawas Tenaga Nuklir",
+    "singkatan": ["Perka BAPETEN"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Informasi Geospasial",
+    "singkatan": ["Perka BIG"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Pembinaan Ideologi Pancasila",
+    "singkatan": ["Peraturan BPIP"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Dewan Direksi Lembaga Penyiaran Publik Televisi Republik Indonesia",
+    "singkatan": ["Peraturan Direksi LPP TVRI"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "singkatan": ["Kepmen PAN-RB", "Kepmen PANRB"]
+  },
+  {
+    "jenis_peraturan": "Keputusan Menteri Sosial",
+    "singkatan": ["Kepmensos"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Nasional Pencarian dan Pertolongan",
+    "singkatan": ["Peraturan BNPP"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Pelindungan Pekerja Migran Indonesia",
+    "singkatan": ["Peraturan BP2MI"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Sekretariat Jenderal Dewan Ketahanan Nasional",
+    "singkatan": ["Peraturan Setjen Wantanas"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Kepala Badan Nasional Penanggulangan Terorisme",
+    "singkatan": ["Perka BNPT"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Pengelola Tabungan Perumahan Rakyat",
+    "singkatan": ["Peraturan BP Tapera"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Pengelola Keuangan Haji",
+    "singkatan": ["Peraturan BPKH"]
+  },
+  {
+    "jenis_peraturan": "Peraturan Badan Ekonomi Kreatif",
+    "singkatan": ["Peraturan BEKRAF"]
+  },
+  {
+    "jenis_peraturan": "Kitab Undang-Undang Hukum Pidana",
+    "singkatan": ["KUHP"]
+  },
+  {
+    "jenis_peraturan": "Kitab Undang-Undang Hukum Acara Pidana",
+    "singkatan": ["KUHAP"]
+  }
+]
